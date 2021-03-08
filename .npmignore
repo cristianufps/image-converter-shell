@@ -1,0 +1,12 @@
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+src/
+screenshots/
+node_modules/
+.travis.yml
+tsconfig.json
+tslint.json
